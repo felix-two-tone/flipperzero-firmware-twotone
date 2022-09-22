@@ -14,12 +14,12 @@
 
 static const Icon* const portrait_happy[7] = {
     &I_passport_happy1_46x49,
-    &I_passport_happy2_46x49,
-    &I_passport_happy3_46x49,
-    &I_G0ku,
-    &I_g0ku_1,
-    &I_g0ku_2,
-    &I_g0ku_3};
+    &I_passport_happy1_46x49,
+    &I_passport_happy1_46x49,
+    &I_passport_happy1_46x49,
+    &I_passport_happy1_46x49,
+    &I_passport_happy1_46x49,
+    &I_passport_happy1_46x49};
 // static const Icon* const portrait_ok[MOODS_TOTAL] = {
 // &I_passport_okay1_46x49,
 // &I_passport_okay2_46x49,
@@ -33,7 +33,7 @@ static const Icon* const portrait_happy[7] = {
 static const Icon* const* portraits[MOODS_TOTAL] = {portrait_happy};
 
 static const char* const moods[16] = {
-    "Stoned",
+    "Righty-o",
     "Baked",
     "Ripped",
     "Joyful",
