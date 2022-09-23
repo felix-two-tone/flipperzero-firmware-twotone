@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 7
+Active frames: 6
+Frames order: 0 0 0 0 1 2 1 2 1 2 0 0 0
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 5
+
+Bubble slots: 1
+
+Slot: 0
+X: 5
+Y: 28
+Text: Let's Jump!
+AlignH: Right
+AlignV: Bottom
+StartFrame: 5
+EndFrame: 11
