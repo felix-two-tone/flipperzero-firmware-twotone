@@ -3,13 +3,12 @@ Version: 1
 
 Width: 128
 Height: 64
-Passive frames: 7
-Active frames: 6
-Frames order: 0 0 0 0 1 2 1 2 1 2 0 0 0
+Passive frames: 5
+Active frames: 5
+Frames order: 0 1 0 1 0 1 0 1 0 1
 Active cycles: 1
 Frame rate: 2
 Duration: 3600
 Active cooldown: 5
 
 Bubble slots: 0
-
